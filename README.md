@@ -46,21 +46,15 @@
 
 ## 💻 Featured Projects
 
-### 🔹 [Lab Management System](https://github.com/dhanjit97/lab-management)
+### 🔹 [Lab Management System](https://github.com/dhanjit97/lab-management-system-using-python)
   - Built with **Python (Tkinter)** and **MySQL** for managing lab resources, schedules, and equipment.
   - Features: User management, equipment tracking, Gmail-integrated login system.
 
-### 🔹 [Spam Classification App](https://github.com/dhanjit97/spam-classification)
+### 🔹 [Spam Classification App](https://github.com/dhanjit97/Spam-Classification-app)
   - DeepCNN-based **spam classification model** with an interactive GUI.
   - Allows model selection from a dropdown and exploring deployment options.
 
-### 🔹 [Student ID Management System](https://github.com/dhanjit97/student-id-management)
-  - Manages student ID requests with role-based access control for admins, students, and teachers.
-
-### 🔹 [Face Recognition on Android](https://github.com/dhanjit97/face-recognition-android)
-  - Implemented using **VGG16** in **Kotlin**, captures and recognizes faces via Android camera, with data saved in CSV format.
-
-### 🔹 [Portfolio Website](https://github.com/dhanjit97/portfolio)
+### 🔹 [Portfolio Website](https://github.com/dhanjit97/WEB-PAGE-WITH-CHATGPT)
   - Developing a personal portfolio to showcase my skills and projects interactively.
 
 ---
@@ -96,9 +90,9 @@
   
   <!-- Additional Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" alt="XAMPP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Xampp_logo.svg" alt="XAMPP" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Metasploit_icon.png" alt="Metasploit" width="40" height="40"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D12AQEa_J0dinoDtA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721187455024?e=1736985600&v=beta&t=nrYSFepdING3XpziDjjOmlJ9m3tsnV9IoHIs_bVsKLA" alt="Metasploit" width="40" height="40"/>
 </p>
 
 ---
