@@ -24,19 +24,26 @@
 
 ## 🛠️ Skills & Expertise
 
-<p align="center">
-  <!-- Programming Languages -->
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python) ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-  
-  <!-- Databases -->
-  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) 
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
-  <!-- Machine Learning Tools -->
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikitlearn) ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-  
-  <!-- Development & Other Tools -->
-  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-</p>
+<!-- Databases -->
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql) 
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+
+<!-- Machine Learning Tools -->
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow) 
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras) 
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikitlearn) 
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
+
+<!-- Development & Other Tools -->
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) 
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+
 
 ---
 
