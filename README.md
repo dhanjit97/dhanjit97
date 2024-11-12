@@ -80,7 +80,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Keras_logo.svg" alt="Keras" width="40" height="40"/> 
+  <img src="https://en.m.wikipedia.org/wiki/File:Keras_logo.svg" alt="Keras" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Dlib_logo.png" alt="DLIB" width="40" height="40"/>
 
   <!-- Web Development -->
