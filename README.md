@@ -64,7 +64,44 @@
   - Developing a personal portfolio to showcase my skills and projects interactively.
 
 ---
+---
+<h3 align="left">🛠️ Languages and Tools</h3>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" width="40" height="40"/> 
+  
+  <!-- Machine Learning / Deep Learning -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Keras_logo.svg" alt="Keras" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Dlib_logo.png" alt="DLIB" width="40" height="40"/>
 
+  <!-- Web Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+
+  <!-- Mobile Development -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tkinter.png" alt="Tkinter" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/>
+  
+  <!-- Additional Tools -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/XAMPP_logo.svg" alt="XAMPP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Metasploit_icon.png" alt="Metasploit" width="40" height="40"/>
+</p>
+
+---
 ## 📈 GitHub Stats
 
 <p align="center">
