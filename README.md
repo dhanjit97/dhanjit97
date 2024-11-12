@@ -113,10 +113,10 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/dhanjit-boro" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://fb.com/dhanjit.boro" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://instagram.com/silly_90s_kis" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://www.youtube.com/c/dgaming" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+  <a href="https://www.linkedin.com/in/dhanjit-boro-073796261" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://fb.com/dhan jit boro" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/silly_90s_kid" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
+  <a href="https://youtube.com/@dhanjitboro1328" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
 </p>
 
 ---
