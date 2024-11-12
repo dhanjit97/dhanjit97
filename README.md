@@ -45,6 +45,9 @@
 ---
 
 ## 💻 Featured Projects
+### 🔹 [WordlistGenerator-Python](https://github.com/dhanjit97/WordlistGenerator-Python)
+  - Built with **Python (Tkinter)** allows users to generate extensive wordlists based on multiple input strings and custom number sequences.
+  - Features: Generates wordlist combinations using base strings, symbols, and custom numbers.
 
 ### 🔹 [Lab Management System](https://github.com/dhanjit97/lab-management-system-using-python)
   - Built with **Python (Tkinter)** and **MySQL** for managing lab resources, schedules, and equipment.
