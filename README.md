@@ -99,17 +99,17 @@
 </p>
 
 ---
+
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjit97&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanjit97&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjit97&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhanjit97&theme=radical" alt="GitHub Streak" height="180px" />
+  </div>
+</div>
+
 
 ---
 
