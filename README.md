@@ -15,7 +15,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **Computer Science and Engineering student** driven by a passion for technology.
+- 🎓 Driven by a passion for technology.
 - 🌱 Currently exploring **Deep Learning** for **Face Recognition**.
 - 💼 Skilled in **Frontend & Backend Development**; always eager to learn more.
 - 🛠️ Enthusiast for **innovative software solutions** and practical **ML applications**.
