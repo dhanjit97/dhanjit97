@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color: #4CAF50;">Dhanjit Boro</span> 👋</h1>
-<h3 align="center">A Passionate Software Developer & Machine Learning Enthusiast 🚀</h3>
+<h1 align="center">Hi there, 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhanjit97&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" /> 
