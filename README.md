@@ -49,7 +49,7 @@
 ## 📌 Featured Projects
 
 ### 🔹 [AetherLink](https://github.com/dhanjit97/AetherLink-V1-QR-file-transfer-optical-transfer-))
-  - **Native Python  & React** AetherLink is a high-performance, zero-network optical transfer protocol designed to transmit secure payloads bi-directionally over open-air atmospheric channels using visual light bands
+  - **Native Python  & React** AetherLink is a high-performance, zero-network optical transfer protocol designed to transmit secure payloads bi-directionally over open-air atmospheric channels using visual light bands.
 
 ### 🔹 [Wordlist Generator](https://github.com/dhanjit97/WordlistGenerator-Python)
   - **Python & Tkinter** app for generating wordlists based on user inputs with dynamic combinations.
