@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, 
+<h1 align="center">Hi there, I'm Dhanjit Boro 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanjit97&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" /> 
+  <img src="https://komarev.com/ghpvc/?username=dhanjit97&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dhanjit97?label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/dhanjit97?label=Stars" alt="Stars" />
 </p>
@@ -15,69 +15,145 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Driven by a passion for technology.
-- 🌱 Currently exploring **Deep Learning** for **Face Recognition**.
-- 💼 Skilled in **Frontend & Backend Development**; always eager to learn more.
-- 🛠️ Enthusiast for **innovative software solutions** and practical **ML applications**.
+- 🌱 Currently exploring **Deep Learning**, **Computer Vision** and **Face Recognition**.
+- 💻 Skilled in **Frontend & Backend Development**.
+- 🧠 Interested in **Artificial Intelligence and Machine Learning**.
+- 🛠️ Enthusiast for innovative software solutions and practical ML applications.
+- 🐧 Exploring **Linux, C++, Qt, Rust and modern development tools**.
+- 🚀 Always learning, experimenting and building new projects.
 
 ---
 
 ## 🛠️ Skills & Expertise
 
-<!-- Programming Languages -->
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python) 
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin) 
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql) 
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+### 🤖 Machine Learning & Computer Vision
 
-<!-- Machine Learning Tools -->
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow) 
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras) 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikitlearn) 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
 
-<!-- Development & Other Tools -->
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5) 
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3) 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+### 🌐 Web & Backend
 
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![React](https://img.shields.io/badge/-React-000?&logo=react)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
+
+### 📱 Application Development
+
+![Android](https://img.shields.io/badge/-Android-000?&logo=android)
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)
+![CMake](https://img.shields.io/badge/-CMake-000?&logo=cmake)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 [AetherLink](https://github.com/dhanjit97/AetherLink-V1-QR-file-transfer-optical-transfer-)
-  - **Native Python  & React** AetherLink is a high-performance, zero-network optical transfer protocol designed to transmit secure payloads bi-directionally over open-air atmospheric channels using visual light bands.
+
+**Python • React**
+
+A high-performance, zero-network optical transfer protocol designed to transmit secure payloads bi-directionally over open-air atmospheric channels using visual light bands.
+
+---
+
+### 🔹 [Face Recognition Attendance System](https://github.com/dhanjit97)
+
+**Python • Deep Learning • OpenCV • TensorFlow**
+
+An AI-powered face recognition system designed for automated attendance using deep learning and computer vision.
+
+---
 
 ### 🔹 [Wordlist Generator](https://github.com/dhanjit97/WordlistGenerator-Python)
-  - **Python & Tkinter** app for generating wordlists based on user inputs with dynamic combinations.
-  
+
+**Python • Tkinter**
+
+A desktop application for generating wordlists based on user inputs with dynamic combinations.
+
+---
+
 ### 🔹 [Lab Management System](https://github.com/dhanjit97/lab-management-system-using-python)
-  - A complete **Python & MySQL** solution for lab resource scheduling and equipment management.
+
+**Python • MySQL • Tkinter**
+
+A complete laboratory management solution for resource scheduling, equipment management and laboratory operations.
+
+---
 
 ### 🔹 [Spam Classification App](https://github.com/dhanjit97/Spam-Classification-app)
-  - **DeepCNN model** with GUI that allows users to classify spam with a dropdown model selector.
+
+**Python • DeepCNN • GUI**
+
+A DeepCNN-based application that allows users to classify messages as spam or legitimate through a graphical interface with model selection.
+
+---
 
 ### 🔹 [Portfolio Website](https://github.com/dhanjit97/WEB-PAGE-WITH-CHATGPT)
-  - A visual portfolio to showcase projects, built with a user-focused design approach.
+
+**HTML • CSS • JavaScript**
+
+A visual developer portfolio created to showcase projects, technical skills and development work.
+
+---
+
+## 🧪 Current Projects & Experiments
+
+- 🤖 Deep Learning & Face Recognition
+- 👁️ Computer Vision Applications
+- 🔐 Optical / QR-based File Transfer
+- 🌐 FastAPI Backend Systems
+- 🖥️ C++ / Qt Desktop Applications
+- 🦀 Rust & P2P Networking
+- 📱 Android Applications
+- 🏫 College Automation & ERP Systems
+- 🧠 AI-powered Software Solutions
 
 ---
 
 <h3 align="center">🛠️ Languages and Tools</h3>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" alt="C Language" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Language" width="40" height="40"/> 
-  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ---
@@ -85,32 +161,66 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjit97&show_icons=true&theme=radical&layout=compact" alt="Top Languages" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&theme=radical" alt="GitHub Stats" height="180px" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjit97&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="180px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px"/>
+
 </div>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanjit97&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhanjit-boro-073796261" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/dhanjit.boro.37051" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/silly_90s_kid" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/></a>
-  <a href="https://youtube.com/@dhanjitboro1328" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/></a>
+
+  <a href="https://www.linkedin.com/in/dhanjit-boro-073796261" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.facebook.com/dhanjit.boro.37051" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+
+  <a href="https://www.instagram.com/silly_90s_kid" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+
+  <a href="https://youtube.com/@dhanjitboro1328" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
+  </a>
+
 </p>
 
 ---
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dhanjit97/dhanjit97/blob/61dec525d3b0a36b4a965a95c54ad73d688ceaab/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dhanjit97/dhanjit97/blob/61dec525d3b0a36b4a965a95c54ad73d688ceaab/snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+## 🐍 GitHub Contribution Snake
 
-###
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
+    alt="GitHub Snake"
+  />
+</p>
 
 ---
 
-<h3 align="center">Thank you for visiting! 😄 Let's connect, collaborate, and innovate together!</h3>
+<h3 align="center">
+  🚀 Build • Learn • Experiment • Innovate
+</h3>
+
+<p align="center">
+  <b>Thank you for visiting! 😄</b>
+</p>
+
+<p align="center">
+  Let's connect, collaborate, and build something awesome together! ⭐
+</p>
