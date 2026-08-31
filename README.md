@@ -286,6 +286,16 @@ Applications built around practical problems using Android development technolog
     <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+<p align="center">
+  <sub>Build useful things. Learn deeply. Experiment relentlessly.</sub>
+</p>
+```
 
 
 ---
