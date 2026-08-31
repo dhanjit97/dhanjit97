@@ -286,3 +286,30 @@ Systems
 
 Large-scale Projects
     └── College Automation / ERP
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=555555&icon_color=000000"
+    alt="GitHub Statistics"
+  />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=dhanjit97&bg_color=ffffff00&color=555555&line=000000&point=000000&area=true&hide_border=true"
+    alt="GitHub Activity"
+  />
+</p>
+<p>
+  <a href="https://www.linkedin.com/in/dhanjit-boro-073796261">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/silly_90s_kid">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://youtube.com/@dhanjitboro1328">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=flat-square&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/dhanjit.boro.37051">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=flat-square&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
