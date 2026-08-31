@@ -1,226 +1,288 @@
-<h1 align="center">Hi there, I'm Dhanjit Boro 👋</h1>
+<h1 align="center">Dhanjit Boro</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanjit97&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dhanjit97?label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/dhanjit97?label=Stars" alt="Stars" />
+  <strong>Computer Science Engineer · Software Developer · AI/ML Enthusiast</strong>
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500px"/>
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-- 🎓 Driven by a passion for technology.
-- 🌱 Currently exploring **Deep Learning**, **Computer Vision** and **Face Recognition**.
-- 💻 Skilled in **Frontend & Backend Development**.
-- 🧠 Interested in **Artificial Intelligence and Machine Learning**.
-- 🛠️ Enthusiast for innovative software solutions and practical ML applications.
-- 🐧 Exploring **Linux, C++, Qt, Rust and modern development tools**.
-- 🚀 Always learning, experimenting and building new projects.
-
----
-
-## 🛠️ Skills & Expertise
-
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-
-### 🤖 Machine Learning & Computer Vision
-
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=pytorch)
-![Keras](https://img.shields.io/badge/-Keras-000?&logo=keras)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-000?&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-
-### 🌐 Web & Backend
-
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=fastapi)
-
-### 📱 Application Development
-
-![Android](https://img.shields.io/badge/-Android-000?&logo=android)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=qt)
-![CMake](https://img.shields.io/badge/-CMake-000?&logo=cmake)
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
-
-### ⚙️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 [AetherLink](https://github.com/dhanjit97/AetherLink-V1-QR-file-transfer-optical-transfer-)
-
-**Python • React**
-
-A high-performance, zero-network optical transfer protocol designed to transmit secure payloads bi-directionally over open-air atmospheric channels using visual light bands.
-
----
-
-### 🔹 [Face Recognition Attendance System](https://github.com/dhanjit97)
-
-**Python • Deep Learning • OpenCV • TensorFlow**
-
-An AI-powered face recognition system designed for automated attendance using deep learning and computer vision.
-
----
-
-### 🔹 [Wordlist Generator](https://github.com/dhanjit97/WordlistGenerator-Python)
-
-**Python • Tkinter**
-
-A desktop application for generating wordlists based on user inputs with dynamic combinations.
-
----
-
-### 🔹 [Lab Management System](https://github.com/dhanjit97/lab-management-system-using-python)
-
-**Python • MySQL • Tkinter**
-
-A complete laboratory management solution for resource scheduling, equipment management and laboratory operations.
-
----
-
-### 🔹 [Spam Classification App](https://github.com/dhanjit97/Spam-Classification-app)
-
-**Python • DeepCNN • GUI**
-
-A DeepCNN-based application that allows users to classify messages as spam or legitimate through a graphical interface with model selection.
-
----
-
-### 🔹 [Portfolio Website](https://github.com/dhanjit97/WEB-PAGE-WITH-CHATGPT)
-
-**HTML • CSS • JavaScript**
-
-A visual developer portfolio created to showcase projects, technical skills and development work.
-
----
-
-## 🧪 Current Projects & Experiments
-
-- 🤖 Deep Learning & Face Recognition
-- 👁️ Computer Vision Applications
-- 🔐 Optical / QR-based File Transfer
-- 🌐 FastAPI Backend Systems
-- 🖥️ C++ / Qt Desktop Applications
-- 🦀 Rust & P2P Networking
-- 📱 Android Applications
-- 🏫 College Automation & ERP Systems
-- 🧠 AI-powered Software Solutions
-
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  I build practical software, intelligent systems, and experimental technologies.
 </p>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanjit97&show_icons=true&theme=radical&layout=compact&hide_border=true" alt="Top Languages" height="180px"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanjit97&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px"/>
-
-</div>
-
----
-
-## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanjit97&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <a href="https://github.com/dhanjit97">
+    <img src="https://komarev.com/ghpvc/?username=dhanjit97&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/dhanjit97?tab=followers">
+    <img src="https://img.shields.io/github/followers/dhanjit97?label=Followers&color=000000&style=flat-square" alt="Followers"/>
+  </a>
 </p>
 
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/dhanjit-boro-073796261" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://www.facebook.com/dhanjit.boro.37051" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
-  </a>
-
-  <a href="https://www.instagram.com/silly_90s_kid" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-
-  <a href="https://youtube.com/@dhanjitboro1328" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube"/>
-  </a>
-
-</p>
-
----
-
-## 🐍 GitHub Contribution Snake
+<br>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg"
-    alt="GitHub Snake"
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    width="420"
+    alt="Developer animation"
   />
 </p>
 
 ---
 
-<h3 align="center">
-  🚀 Build • Learn • Experiment • Innovate
-</h3>
+## `01` — About
 
-<p align="center">
-  <b>Thank you for visiting! 😄</b>
+I'm a Computer Science Engineer focused on building software that is useful beyond the classroom.
+
+My interests sit at the intersection of:
+
+**Software Engineering · Artificial Intelligence · Computer Vision · Systems · Automation**
+
+I enjoy working across the stack — from low-level C/C++ programs and desktop applications to APIs, databases, machine-learning pipelines and distributed systems.
+
+Currently exploring **C++/Qt, FastAPI, PyTorch, Rust, P2P networking, Linux and AI-powered applications**.
+
+---
+
+## `02` — What I Build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Artificial Intelligence
+
+Computer Vision  
+Deep Learning  
+Face Recognition  
+OCR  
+Classification Systems  
+Intelligent Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+### Software Engineering
+
+Backend Systems  
+REST APIs  
+Desktop Applications  
+Android Applications  
+Database Applications  
+Automation Platforms
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Systems & Networking
+
+C / C++  
+Rust  
+P2P Networking  
+Distributed Systems  
+Linux  
+Networking Experiments
+
+</td>
+
+<td width="50%" valign="top">
+
+### Product Development
+
+Architecture  
+UI / UX  
+Database Design  
+System Integration  
+Performance  
+Real-world Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,kotlin,rust" />
 </p>
 
-<p align="center">
-  Let's connect, collaborate, and build something awesome together! ⭐
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,fastapi,qt" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,vscode,cmake" />
+</p>
+
+---
+
+# `04` — Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 AetherLink
+
+**Optical File Transfer**
+
+A zero-network optical transfer system designed to move data using visual communication.
+
+**Stack**
+
+`Python` `React` `Computer Vision`
+
+<a href="https://github.com/dhanjit97/AetherLink-V1-QR-file-transfer-optical-transfer-">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏫 College Automation / ERP
+
+**Institution Management Platform**
+
+An ongoing effort to design a practical automation platform covering institutional workflows, student management and administrative operations.
+
+**Focus**
+
+`C++` `Qt` `Database` `System Design`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ Face Recognition Attendance
+
+**Computer Vision System**
+
+An AI-based attendance system using deep learning and facial recognition for automated identification and attendance tracking.
+
+**Stack**
+
+`Python` `TensorFlow` `OpenCV`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ Admission Management System
+
+**Desktop Application**
+
+A modern desktop-based admission management application being developed with a proper graphical interface and structured architecture.
+
+**Stack**
+
+`C++` `Qt Widgets` `CMake`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Lab Management System
+
+**Laboratory Automation**
+
+A desktop management system for laboratory resources, equipment and scheduling.
+
+**Stack**
+
+`Python` `Tkinter` `MySQL`
+
+<a href="https://github.com/dhanjit97/lab-management-system-using-python">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🦀 Decentralized Chat
+
+**P2P Networking**
+
+An experimental decentralized communication system exploring peer-to-peer networking and distributed communication.
+
+**Stack**
+
+`Rust` `libp2p` `Tokio`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📨 Spam Classification
+
+**Deep Learning Application**
+
+A GUI-based spam classification system using a DeepCNN model with selectable trained models.
+
+**Stack**
+
+`Python` `Deep Learning` `GUI`
+
+<a href="https://github.com/dhanjit97/Spam-Classification-app">
+View Repository →
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Android Applications
+
+**Mobile Development**
+
+Applications built around practical problems using Android development technologies and local databases.
+
+**Stack**
+
+`Java` `Kotlin` `SQLite` `Android`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05` — Current Focus
+
+```text
+AI & Computer Vision
+    ├── Deep Learning
+    ├── Face Recognition
+    ├── OCR
+    └── Intelligent Automation
+
+Software Engineering
+    ├── C++ / Qt
+    ├── Python / FastAPI
+    ├── Android
+    └── Database Systems
+
+Systems
+    ├── Rust
+    ├── P2P Networking
+    ├── Distributed Systems
+    └── Linux
+
+Large-scale Projects
+    └── College Automation / ERP
