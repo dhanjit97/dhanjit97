@@ -260,32 +260,6 @@ Applications built around practical problems using Android development technolog
 </td>
 </tr>
 </table>
-
----
-
-## `05` — Current Focus
-
-```text
-AI & Computer Vision
-    ├── Deep Learning
-    ├── Face Recognition
-    ├── OCR
-    └── Intelligent Automation
-
-Software Engineering
-    ├── C++ / Qt
-    ├── Python / FastAPI
-    ├── Android
-    └── Database Systems
-
-Systems
-    ├── Rust
-    ├── P2P Networking
-    ├── Distributed Systems
-    └── Linux
-
-Large-scale Projects
-    └── College Automation / ERP
 <p align="center">
   <img
     height="170"
@@ -313,3 +287,29 @@ Large-scale Projects
   </a>
 </p>
 
+
+---
+
+## `05` — Current Focus
+
+```text
+AI & Computer Vision
+    ├── Deep Learning
+    ├── Face Recognition
+    ├── OCR
+    └── Intelligent Automation
+
+Software Engineering
+    ├── C++ / Qt
+    ├── Python / FastAPI
+    ├── Android
+    └── Database Systems
+
+Systems
+    ├── Rust
+    ├── P2P Networking
+    ├── Distributed Systems
+    └── Linux
+
+Large-scale Projects
+    └── College Automation / ERP
