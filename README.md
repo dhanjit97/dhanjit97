@@ -1,11 +1,11 @@
 <h1 align="center">Dhanjit Boro</h1>
 
 <p align="center">
-  <strong>Computer Science Engineer · Software Developer · AI/ML Enthusiast</strong>
+  <strong> Let it be built </strong>
 </p>
 
 <p align="center">
-  I build practical software, intelligent systems, and experimental technologies.
+  See a problem, solve it!
 </p>
 
 <p align="center">
